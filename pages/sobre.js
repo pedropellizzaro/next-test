@@ -8,7 +8,7 @@ function Sobre() {
         <a>Voltar ao início</a>
       </Link>
     </div>
-  )
+  );
 }
 
 export default Sobre
